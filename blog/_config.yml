@@ -16,10 +16,9 @@ permalink: /:year/:month/:day/:title/
 # other links
 github_username:  ybw20051114
 email: ybw051114@QQ.com
-weibo_username: 3115521wh
-zhihu_username: hll643435675
-linkedIn_username: gaohaoyang
-dribbble_username:
+luogu_username: ybw051114
+QQ_username: hll643435675
+codevs_username: gaohaoyang
 
 description_footer: 来自杨博文的个人专栏！
 
@@ -55,5 +54,5 @@ excerpt_separator: "\n\n\n\n"
 
 # paginate
 plugins: [jekyll-paginate]
-paginate: 6
+paginate: 5
 port: 4001
