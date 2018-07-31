@@ -2,7 +2,7 @@
 layout: post
 title:  "网络流初步"
 date:   2018-7-31 22:36:05
-categories: HTML CSS
+categories: c++ CSS
 tags: Baidu ife HTML CSS task
 ---
 
