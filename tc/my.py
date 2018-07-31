@@ -3,7 +3,7 @@ import io
 title='YBW的图床'
 def make(s):
     d=os.listdir('.')
-    with open('index.html','w') as f:
+    with open('tc.html','w') as f:
         
         f.write('<!DOCTYPE html><html lang="zh-CN"><head><meta charset="UTF-8"><title>{0}</title></head><body><h1>{0}</h1><ul>\n'.format(title))
         f.write('<!DOCTYPE html><html lang="zh-CN"><head><meta charset="UTF-8"><title>{0}的索引</title></head><body><h2>{0}的索引</h1><ul>\n'.format(s))
